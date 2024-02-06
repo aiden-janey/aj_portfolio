@@ -1,6 +1,6 @@
 import { Component } from '@angular/core';
-import { BioComponent } from '../bio/bio.component';
-import { ProjectsComponent } from '../projects/projects.component';
+import { BioComponent } from './bio/bio.component';
+import { ProjectsComponent } from './projects/projects.component';
 
 @Component({
   selector: 'app-content',
